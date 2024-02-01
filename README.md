@@ -1,2 +1,2 @@
 # TYPDETAILS
-NAME        ROLLNO
+AMAN        561
